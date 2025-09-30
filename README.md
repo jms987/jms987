@@ -5,3 +5,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jms987&layout=compact&theme=radical&count_private=true)
 
+![Stats](./stats.svg)
