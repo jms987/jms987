@@ -13,7 +13,7 @@ I’m a **software engineer** with 7+ years of programming experience, including
 My focus lies in **C# / .NET 6+**, **Blazor**, **MAUI**, and **Azure cloud services** — building modern web, desktop, and mobile apps.
 
 I enjoy exploring the intersection between **AI and software engineering**, integrating **Azure OpenAI** and **machine learning models** into real-world applications.  
-Currently, I’m completed my **MSc in Computer Engineering**, researching **transformer-based forecasting models** for energy markets.
+I completed my **MSc in Computer Engineering**, focusing on **transformer-based forecasting models** for energy markets.
 
 ---
 
