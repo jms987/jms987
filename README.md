@@ -52,4 +52,7 @@ _EEITE 2025, Chania, Greece_
 _AISE 2025, Darmstadt, Germany_  
 [DOI: 10.3233/AISE250026](https://ebooks.iospress.nl/doi/10.3233/AISE250026)
 
+[![My Skills](https://skillicons.dev/icons?i=azure,c,cs,cpp,dotnet,docker,py,html,css,latex,terraform)](https://skillicons.dev)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jms987&layout=compact&theme=radical&count_private=true)
